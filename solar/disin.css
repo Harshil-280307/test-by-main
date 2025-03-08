@@ -37,7 +37,7 @@ body{
 
 @keyframes animate-sun{
     50% {
-        box-shadow: 0 0 5em 1em white;
+        box-shadow: 0 0 5em 1em skyblue;
     }    
 }
 
