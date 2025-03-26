@@ -1,4 +1,4 @@
-<htm>
+<html>
     <head>
         <title> form </title>
     </head>
